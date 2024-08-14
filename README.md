@@ -16,6 +16,4 @@ Here are some ideas to get you started:
 -->
 [![LeetCode user 3wPvgrQDqb](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=%D0%A0%D0%B5%D1%88%D0%B5%D0%BD%D0%BE&query=solved&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2F3wPvgrQDqb&logo=leetcode&logoColor=yellow)](https://leetcode.com/3wPvgrQDqb/)
 
-![Enter some description](https://leetcode-badge-sage.vercel.app/badge/3wPvgrQDqb?theme=light)
-![Enter some description](https://leetcode-badge-sage.vercel.app/badge/3wPvgrQDqb?theme=dark)
 ![Enter some description](https://leetcode-badge-sage.vercel.app/badge/3wPvgrQDqb?theme=neutral)
