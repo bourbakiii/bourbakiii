@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Severstal**
 
-- 💬 Ask me about **React**
+- 💬 Ask me about **Frontend**
 
 - 📫 How to reach me **Telegram - @bourbakiii**
 
